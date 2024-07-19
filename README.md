@@ -9,4 +9,4 @@
 * Se suas classes devem ser escaneadas pelo spring (são beans):
     * Crie-as dentro do pacote br.org.diaristando packages OU adicione o pacote @ComponentScan na classe principal da aplicação
 * Inclua o módulo dentro do settins.gradle
-    * ex: includes "nome-modulo"
+    * ex: include "nome-modulo"
