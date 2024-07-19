@@ -1,1 +1,3 @@
 rootProject.name = 'diaristando.server'
+include 'submodule-exceptions'
+
